@@ -1,8 +1,8 @@
 /*!
 * Kompressor v0.0.2 (http://www.getkompressor.com/)
 * Copyright 2014-2014 Chipotle Studios
-* Author(s): Corbin "Spritsinz" Matschull
-* Licensed under MIT
+* Author(s): Corbin "Spritsinz" Matschull, Veer Singh and Jeremy Fortunato
+* Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 */
 
 
